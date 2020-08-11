@@ -13,7 +13,7 @@ I like being outdoors. On the weekend, you can catch me jogging, playing soccer,
 I enjoy watching movies. I am big fan of Quentin Tarantino and have watched all of his movies multiple times. Feel free to message me for movie recommendations.
 
 # Personal/School/Hackathon projects...🏫 ✏️ 👨‍💻
-Feel free to browse my GitHub profile for any project that I have worked on or currently working on. I appreciate any feedback and if you any awesome ideas, I would love to collaborate!
+Feel free to browse my GitHub profile for any project that I have worked on or are currently working on. I appreciate any feedback and if you any awesome ideas, I would love to collaborate!
 
 
 # Reach out to me via... 🤝 🧑🏻‍🦱 👍🏼 
