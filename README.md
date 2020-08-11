@@ -10,7 +10,11 @@ I interned at Bank of America for the summer of 2019 as a FinTech Focus fellow.
 # In my free time...🌐 🌳  🎥
 I make websites and do web design for fun.
 I like being outdoors. On the weekend, you can catch me jogging, playing soccer, or swimming when it is nice out.
-I enjoy watching movies. I am big fan of Quentin Tarantino and have watched all of his movies multiple times.
+I enjoy watching movies. I am big fan of Quentin Tarantino and have watched all of his movies multiple times. Feel free to message me for movie recommendations.
+
+# Personal/School/Hackathon projects...🏫 ✏️ 👨‍💻
+Feel free to browse my GitHub profile for any project that I have worked on or currently working on. I appreciate any feedback and if you any awesome ideas, I would love to collaborate!
+
 
 # Reach out to me via... 🤝 🧑🏻‍🦱 👍🏼 
 [LinkedIn](https://www.linkedin.com/in/marcelomoraless/) | [Email](mailto:lmoral10@jhu.edu) | [Personal Website](https://marcelo-morales.github.io/)
