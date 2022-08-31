@@ -1,6 +1,6 @@
 # Hey, I'm Marcelo! 👋 🙋 🇵🇪
 
-I am a junior at Johns Hopkins University double majoring in Computer Science and Applied Math. I like learning and building stuff, especially web applications and mobile applications.
+I am a student at Johns Hopkins University double majoring in Computer Science and Applied Math. I like learning and building stuff, especially web applications and mobile applications.
 
 # Previously... 💼 🏡 💻
 I interned at CodeLabs for the summer of 2020, part of the non-profit group CodeDay, which pairs up students with mentors from leading tech companies to work on open-source projects over the summer.
